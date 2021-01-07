@@ -1,18 +1,24 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋🏼,I'm <a href="shoel-uddin.github.io">Sho</a> and Welcome To My Github. </h1>
+<p align="center"><tb><img src="svg/pronouns/hehim.svg" alt="he/him" style="vertical-align:top; margin:6px 4px"></tb></tr></p>
 
 <p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=shoel-uddin.shoel-uddin"/></tb></p>
 
-<!--
-**shoel-uddin/shoel-uddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a Software Engineer and learning all that it has to offer.</h3>
 
-Here are some ideas to get you started:
+## Few Things About myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Database (Postgres, mySql)
+- 🌱 I’m currently learning backEnd Development 
+- 👯 I’m looking to collaborate on things that will expand my knowladge
+- 💬 Ask me about whatever comes to mind
+
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/shoel-uddin/"><tb><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></tb></tr></a>
+<a href ="mailto:shoel1989@gmail.com"><tb><img src="svg/social/gmail.svg" alt="" style="vertical-align:top; margin:6px 4px"></tb></tr></a> 
+<!-- </p> -->
+<!-- <p align="center"> -->
+</p>
+
+<br>
+
