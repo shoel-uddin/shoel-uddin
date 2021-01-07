@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Database (Postgres, mySql)
 - 🌱 I’m currently learning backEnd Development 
 - 👯 I’m looking to collaborate on things that will expand my knowladge
-- 💬 Ask me about whatever comes to mind
+- 💬 We can talk about: Anime, games, Guns, life in general, and even motorcycle
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
