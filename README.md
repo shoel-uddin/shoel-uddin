@@ -25,7 +25,7 @@
 <br>
 
 <h2 align="center"> Languages and Tools </h2>
-
+<p align="center>
 <tr>
 <tb><img src="./svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="./svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px"></tb>
@@ -42,3 +42,4 @@
 <tb><img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></tb>
 <tb><img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"></tb>
 </tr>
+</P>
