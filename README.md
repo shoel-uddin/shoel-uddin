@@ -16,9 +16,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/shoel-uddin/"><tb><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></tb></tr></a>
 <a href ="mailto:shoel1989@gmail.com"><tb><img src="svg/social/gmail.svg" alt="" style="vertical-align:top; margin:6px 4px"></tb></tr></a> 
-<!-- </p> -->
-<!-- <p align="center"> -->
 </p>
 
 <br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shoel-uddin&hide=prs&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![1](https://github-readme-stats.vercel.app/api/top-langs/?username=shoel-uddin&layout=compact&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
